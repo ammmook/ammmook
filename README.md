@@ -58,7 +58,7 @@
 
 ## 🐍 Snake Eating My Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ammmook/ammmook/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ammmook/ammmook/main/dist/snake.svg" />
 </p>
 
 ---
