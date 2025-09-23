@@ -56,13 +56,6 @@
 
 ---
 
-## 🐍 Snake Eating My Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ammmook/ammmook/main/dist/snake.svg" />
-</p>
-
----
-
 <div align="center">
 
 🌸 *“Code with passion, learn with curiosity, and create with love.”* 🌸  
