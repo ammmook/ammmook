@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule: # จะรันทุกวันตอนตี 4
+    - cron: "0 4 * * *"
+  workflow_dispatch: # รันเองได้ด้วยปุ่มใน Actions
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ammmook
+          outputs: dist/snake.svg
+
+      - name: Push Snake
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: github-actions
+          author_email: github-actions@github.com
+          message: "generated snake.svg"
+          add: "dist/snake.svg"
