@@ -10,7 +10,7 @@
 ## 🌼 About Me
 - 💼 Currently a **Fullstack Developer Intern** at **MFEC**
 - 🎓 4th-year IT student at **Maejo University** - 🌱 Always learning **new tech & frameworks** - 👩‍🏫 Former **Teaching Assistant** (Java, Go, Web, UI/UX)  
-- 💖 Love exploring **backend** - 🐱 Matcha, coding, and cats = my perfect day!  
+- 💖 Love exploring **backend and website** - 🐱 Matcha, coding, and cats = my perfect day!  
 
 ---
 
@@ -26,11 +26,6 @@
 ---
 
 ## 🎀 GitHub Fun Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammmook&show_icons=true&theme=sakura&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammmook&layout=compact&theme=sakura&hide_border=true" height="170"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammmook&theme=tokyonight" />
