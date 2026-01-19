@@ -9,8 +9,11 @@
 
 ## 🌼 About Me
 - 💼 Currently a **Fullstack Developer Intern** at **MFEC**
-- 🎓 4th-year IT student at **Maejo University** - 🌱 Always learning **new tech & frameworks** - 👩‍🏫 Former **Teaching Assistant** (Java, Go, Web, UI/UX)  
-- 💖 Love exploring **backend and website** - 🐱 Matcha, coding, and cats = my perfect day!  
+- 🎓 4th-year IT student at **Maejo University**
+- 🌱 Always learning **new tech & frameworks**
+- 👩‍🏫 Former **Teaching Assistant** (Java, Go, Web, UI/UX)
+- 💖 Love exploring **backend and website**
+- 🐱 Matcha, coding, and cats = my perfect day!
 
 ---
 
@@ -27,15 +30,22 @@
 
 ## 🎀 GitHub Fun Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammmook&theme=tokyonight" />
-</p>
+<div align="center">
+
+<a href="https://github.com/ammmook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammmook&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150" alt="Top Languages" />
+</a>
+<a href="https://github.com/ammmook">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ammmook&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+</a>
+
+</div>
 
 ---
 
-## 🧩 Featured Projects  
-🌟 Check out my pinned repositories below to explore more!  
-> Fun web apps, AI experiments, and creative coding ✨  
+## 🧩 Featured Projects
+🌟 Check out my pinned repositories below to explore more!
+> Fun web apps, AI experiments, and creative coding ✨
 
 ---
 
@@ -50,7 +60,7 @@
 
 <div align="center">
 
-🌸 *“Code with passion, learn with curiosity, and create with love.”* 🌸  
+🌸 *“Code with passion, learn with curiosity, and create with love.”* 🌸
 
 ![Cute Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
