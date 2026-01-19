@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="center">✨ Hello World! I'm <span style="color:#ff66b2">Ruthaichanok Kasun</span> ✨</h1>
 <h3 align="center">💻 Backend Developer | 🌸 Curious Learner | 🎀 Tech Lover</h3>
 
@@ -9,22 +8,20 @@
 ---
 
 ## 🌼 About Me
-- 🎓 4th-year IT student at **Maejo University**  
-- 🌱 Always learning **new tech & frameworks**  
-- 👩‍🏫 Former **Teaching Assistant** (Java, Go, Web, UI/UX)  
-- 💖 Love exploring **backend, AI & automation**  
-- 🐱 Coffee, coding, and cats = my perfect day!  
+- 💼 Currently a **Fullstack Developer Intern** at **MFEC**
+- 🎓 4th-year IT student at **Maejo University** - 🌱 Always learning **new tech & frameworks** - 👩‍🏫 Former **Teaching Assistant** (Java, Go, Web, UI/UX)  
+- 💖 Love exploring **backend, AI & automation** - 🐱 Coffee, coding, and cats = my perfect day!  
 
 ---
 
 ## 🔧 Tech Stack & Tools
 
-| 👩‍💻 Programming | 📚 Framework / Library | 🗄️ Database | 🛠️ Tools |
-|------------------|-------------------------|-------------|----------|
-| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) |
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) |  | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) |  | ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |  | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
+| 👩‍💻 Programming | 📚 Framework / Library | 🗄️ Database / Backend | 🛠️ Tools |
+|------------------|-------------------------|------------------------|----------|
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) | ![Appsmith](https://img.shields.io/badge/Appsmith-FF6D2C?style=for-the-badge&logo=appsmith&logoColor=white) |
+| ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) | ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | ![PostgREST](https://img.shields.io/badge/PostgREST-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) <br> ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |  | ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white) <br> ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
 
 ---
 
