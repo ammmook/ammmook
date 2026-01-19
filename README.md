@@ -10,7 +10,7 @@
 ## 🌼 About Me
 - 💼 Currently a **Fullstack Developer Intern** at **MFEC**
 - 🎓 4th-year IT student at **Maejo University** - 🌱 Always learning **new tech & frameworks** - 👩‍🏫 Former **Teaching Assistant** (Java, Go, Web, UI/UX)  
-- 💖 Love exploring **backend, AI & automation** - 🐱 Coffee, coding, and cats = my perfect day!  
+- 💖 Love exploring **backend** - 🐱 Matcha, coding, and cats = my perfect day!  
 
 ---
 
